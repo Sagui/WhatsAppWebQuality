@@ -8,12 +8,12 @@ body{
 }
 #inner {
   width:100%; 
-  height:550px; 
+  height:800px;
   background-color:#eeeeee;
 }
 #second {
    width: 870px;
-   height: 630px;
+   height:800px;
    background-color: white;
    position: absolute;
    border-radius: 4px;
@@ -22,10 +22,37 @@ body{
 }
 #third{
   width: 870px;
-   height: 342px;
+   height:400px;
    background-color:#f6f8f8;
    position: absolute;
    border-radius: 4px;
-   top: 20em;
+   top: 30em; 
    left:15em;
+}
+div img{
+  margin-top:80px;
+  margin-left:100px;
+}
+div h1{
+  float:right;
+  margin-top: 80px;
+  margin-right:200px;
+  font-family: Verdana;
+  font-size: 40px;
+}
+div p{
+  float:center;
+  margin-left:340px;
+  margin-top:-160px;
+  font-family: verdana;
+  font-size:20px;
+}
+div input{
+  margin-left:340px;
+}
+p.wifi{
+  margin-top: 80px;
+  font-size:20px;
+}
+
 
