@@ -1,0 +1,69 @@
+.ColorArriba{
+	position: absolute;
+	border:solid 1px #aaaaaa; 
+	height:200px; 
+	width:1262px;
+	background-color:#009688;
+	left:-1;
+	top:0px;
+}
+
+.ColorAbajo{
+	position: absolute; 
+	border:solid 1px #aaaaaa;
+	height:530px;
+	width:1262px;
+	background-color:#dfdfdf;
+	left:-1px;
+	top:200px;
+	Margin-bottom:0px;
+}
+
+.Box{
+	border:hidden 1px #aaaaaa; 
+	height:700px; 
+	width:850px;
+	Margin-top:10px; 
+	Margin-bottom:0px; 
+	background-color:#FFF; 
+	Margin-height:600px; 
+	Margin-Right:800px; 
+	Margin-left:200px;
+	position:absolute;
+}
+
+.letter1 {
+	position:absolute; 
+	left:600; 
+	font-size:23px; 
+	top:150px; 
+	color:#37474f; 
+	font-family:calibri;
+}
+
+.letter2 {
+	position:absolute; 
+	left:600; 
+	top: 240px; 
+	font-size:17px; 
+	font-family:Calibri;
+}
+
+.letter3 {
+	position:absolute; 
+	left:605; 
+	top:270px; 
+	font-size:15px; 
+	color:37474f; 
+	font-family:Calibri;
+}
+
+.last {
+	position: absolute;
+	border:hidden 1px #aaaaaa; 
+	height:298px; 
+	width:850px;
+	background-color:#f6f8f8;
+	left:208;
+	top:420px;
+}
