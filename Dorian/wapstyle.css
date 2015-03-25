@@ -51,8 +51,127 @@ div input{
   margin-left:340px;
 }
 p.wifi{
-  margin-top: 80px;
+  margin-top: 50px;
+  font-size:15px;
+
+}
+.circulo1{
+width:60px;
+height:60px;
+background:#43d854; 
+   -moz-border-radius:60px; 
+   -webkit-border-radius:60px; 
+   border-radius:60px;
+   margin-left:30px;
+   margin-top: 30px;
+}
+#android{
+  margin-left:100px;
+  margin-top: -50px;
   font-size:20px;
 }
+#texto1{
+  font-size:15px;
+  margin-left:100px;
+}
+.circulo2{
+width:60px;
+height:60px;
+background:#43d854; 
+   -moz-border-radius:60px; 
+   -webkit-border-radius:60px; 
+   border-radius:60px;
+   margin-left:30px;
+   margin-top: 30px;
+}
+#bb{
+  margin-left:100px;
+  margin-top: -50px;
+  font-size:20px;
+}
+#texto2{
+  font-size:15px;
+  margin-left:100px;
+}
 
-
+.circulo3{
+width:60px;
+height:60px;
+background:#43d854; 
+   -moz-border-radius:60px; 
+   -webkit-border-radius:60px; 
+   border-radius:60px;
+   margin-left:30px;
+   margin-top: 30px;
+}
+#S60{
+  margin-left:100px;
+  margin-top: -50px;
+  font-size: 20px;
+}
+#texto3{
+  font-size:15px;
+  margin-left:100px;
+}
+.circulo4{
+  margin-top:-210px;
+  width:60px;
+height:60px;
+background:#43d854; 
+   -moz-border-radius:60px; 
+   -webkit-border-radius:60px; 
+   border-radius:60px;
+   margin-left:460px;
+   
+}
+#wp{
+  margin-top:-50px;
+  margin-left:530px;
+  font-size: 20px;
+}
+#texto4{
+  font-size:15px;
+  margin-left:530px;
+}
+.circulo5{
+  margin-top:30px;
+width:60px;
+height:60px;
+background:#43d854; 
+   -moz-border-radius:60px; 
+   -webkit-border-radius:60px; 
+   border-radius:60px;
+   margin-left:460px;
+   }
+#bb10{
+  margin-top:-55px;
+  margin-left:530px;
+  font-size: 20px;
+}
+#texto5{
+  font-size:15px;
+  margin-left:530px;
+}
+.circulo6{
+  margin-top:15px;
+width:60px;
+height:60px;
+background:#43d854; 
+   -moz-border-radius:60px; 
+   -webkit-border-radius:60px; 
+   border-radius:60px;
+   margin-left:460px;
+}
+#N40{
+  margin-top:-50px;
+  margin-left:530px;
+  font-size: 20px;
+  }
+#texto6{
+  font-size:15px;
+  margin-left:530px;
+}
+p.footer{
+  font-size: 13px;
+  margin-top:95px;
+}
