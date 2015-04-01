@@ -4,9 +4,9 @@
     background-color: #009688 ;
     width: 100%;
     height: 220px;
-    content: '';
     top: -30;
     left: 0;
+    right: 100%;
 }
 
 .abajo{
@@ -49,43 +49,148 @@
     right: 190px;
     border-bottom-right-radius: 3px;
     border-bottom-left-radius: 3px; 
+    display: flex-flow;
 }
+
 
 h1{
     position: absolute;
     z-index: 3;
-    top: 80px;
-    right: 450px;
-    font: 220% Arial;
+    top: 100px;
+    right: 423px;
+    font: 220% Calibri Light;
 
 }
 
 pre{
     position: absolute;
     z-index: 3;
-    top: 130px;
+    top: 150px;
     right: 275px;
-    font: 130% Arial;
+    font: 130% Calibri Light;
 }
 input{
     position: absolute;
     z-index: 3;
     top: 250px;
-    right: 675px;
+    right: 630px;
 }
 
 span{
      position: absolute;
     z-index: 3;
     top: 252px;
-    right: 520px;
+    right: 474px;
     font: 80% Arial;
 }
 
-p{
+#tit{
     position: absolute;
     z-index: 3;
     top: 270px;
-    right: 228px;
+    right: 288px;
+    font: 80% Arial;
+}
+
+.android{
+    position: absolute;
+    z-index: 3;
+    top:435px;
+    left: 335px;
+    font-family: Verdana;
+}
+
+#Uno{
+    position: absolute;
+    z-index: 3;
+    top: 460px;
+    left: 335px;
+    font: 75% Arial;
+
+}
+
+.berry{
+    position: absolute;
+    z-index: 3;
+    top: 515px;
+    left: 335px;
+    font-family: Verdana;
+}
+
+#dos{
+    position: absolute;
+    z-index: 3;
+    top: 540px;
+    left: 335px;
+    font: 75% Arial;
+}
+
+.sam{
+    position: absolute;;
+    z-index: 3;
+    top: 600px;
+    left: 335px;
+    font-family: Verdana;
+}
+
+#tres{
+    position: absolute;
+    z-index: 3;
+    top: 625px;
+    left: 335px;
+    font: 75% Arial;
+}
+
+.win{
+    position: absolute;
+    z-index: 3;
+    top: 435px;
+    left: 700px;
+    font-family: Verdana;
+}
+
+#cuatro{
+    position: absolute;
+    z-index: 3;
+    top: 460px;
+    left: 700px;
+   font: 75% Arial;
+}
+
+.iphone{
+    position: absolute;
+    z-index: 3;
+    top: 515px;
+    left: 700px;
+    font-family: Verdana;
+}
+
+#cinco{
+    position: absolute;;
+    z-index: 3;
+    top:540px;
+    left: 700px;
+    font: 75% Arial;
+}
+
+.Nokia{
+    position: absolute;
+    z-index: 3;
+    top: 600px;
+    left: 700px;
+    font-family: Verdana;
+}
+#seis{
+    position: absolute;
+    z-index: 3;
+    top: 625px;
+    left: 700px;
+    font: 75% Arial;
+}
+#re{
+    position: absolute;
+    z-index: 3;
+    top: 665px;
+    right: 476px;
     font: 80% Arial;
 }
