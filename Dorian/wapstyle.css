@@ -52,7 +52,8 @@ div input{
 }
 p.wifi{
   margin-top: 50px;
-  font-size:15px;
+  font-size:13px;
+  color:#757575 
 
 }
 .circulo1{
@@ -114,7 +115,7 @@ background:#43d854;
   margin-left:100px;
 }
 .circulo4{
-  margin-top:-210px;
+  margin-top:-215px;
   width:60px;
 height:60px;
 background:#43d854; 
@@ -174,4 +175,5 @@ background:#43d854;
 p.footer{
   font-size: 13px;
   margin-top:95px;
+  color: #757575;
 }
