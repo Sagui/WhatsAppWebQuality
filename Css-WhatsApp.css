@@ -1,0 +1,238 @@
+.ColorArriba{
+	position: absolute;
+	border:solid 1px #aaaaaa; 
+	height:200px; 
+	width:1262px;
+	background-color:#009688;
+	left:-1;
+	top:0px;
+}
+
+.ColorAbajo{
+	position: absolute; 
+	border:solid 1px #aaaaaa;
+	height:530px;
+	width:1262px;
+	background-color:#dfdfdf;
+	left:-1px;
+	top:200px;
+	Margin-bottom:0px;
+}
+
+.Box{
+	border:hidden 1px #aaaaaa; 
+	height:700px; 
+	width:850px;
+	Margin-top:10px; 
+	Margin-bottom:0px; 
+	background-color:#FFF; 
+	Margin-height:600px; 
+	Margin-Right:800px; 
+	Margin-left:200px;
+	position:absolute;
+}
+
+.letter1 {
+	position:absolute; 
+	left:600; 
+	font-size:23px; 
+	top:150px; 
+	color:#37474f; 
+	font-family:calibri;
+}
+
+.letter2 {
+	position:absolute; 
+	left:600; 
+	top: 240px; 
+	font-size:17px; 
+	font-family:Calibri;
+}
+
+.letter3 {
+	position:absolute; 
+	left:605; 
+	top:270px; 
+	font-size:15px; 
+	color:37474f; 
+	font-family:Calibri;
+}
+
+.last {
+	position: absolute;
+	border:hidden 1px #aaaaaa; 
+	height:298px; 
+	width:850px;
+	background-color:#f6f8f8;
+	left:208;
+	top:420px;
+}
+
+.last2 {
+	position: absolute;
+	border:hidden 1px #aaaaaa; 
+	height:298px; 
+	width:850px;
+	background-color:#f6f8f8;
+	left:208;
+	top:420px;
+}
+
+.img1{
+	position: absolute;
+	left:270px;
+	bottom: 230px;
+}
+
+#Android{
+	position:absolute;
+	color: black;
+	left: 330px;
+	bottom: 195px;
+	color:#000000;
+	font-family: aharoni;
+}
+
+#Open-A{
+	position:absolute;
+	color: black;
+	left: 330px;
+	bottom: 180px;
+	font-family: candara;
+	font-size: 14px;
+}
+
+.Img2{
+	position: absolute;
+	left:270px;
+	bottom: 155px;
+
+
+}
+
+#BlackBerry1{
+	position:absolute;
+	color: black;
+	left: 330px;
+	bottom: 120px;
+	color:#000000;
+	font-family: aharoni;
+}
+
+#Open-B{
+	position:absolute;
+	color: black;
+	left: 330px;
+	bottom: 88px;
+	font-family: candara;
+	font-size: 14px;
+}
+
+.Img3{
+	position: absolute;
+	left:270px;
+	bottom: 80px;
+
+}
+
+#Nokia{
+	position:absolute;
+	color: black;
+	left: 330px;
+	bottom: 43px;
+	color:#000000;
+	font-family: aharoni;
+}
+
+#Open-C {
+	position:absolute;
+	color: black;
+	left: 330px;
+	bottom: 29px;
+	font-family: candara;
+	font-size: 14px;	
+}
+
+.Img4{
+	position: absolute;
+	left:670px;
+	bottom: 230px;
+
+}
+
+#Windows{
+	position:absolute;
+	color: black;
+	left: 730px;
+	bottom: 195px;
+	color:#000000;
+	font-family: aharoni;
+}
+
+#Open-D {
+	position:absolute;
+	color: black;
+	left: 730px;
+	bottom: 180px;
+	font-family: candara;
+	font-size: 14px;	
+}
+
+.img5 {
+	position: absolute;
+	left:670px;
+	bottom: 155px;
+
+}
+
+#Open-E{
+	position:absolute;
+	color: black;
+	left: 730px;
+	bottom: 89px;
+	font-family: candara;
+	font-size: 14px;
+}
+
+#BlackBerry2{
+	position:absolute;
+	color: black;
+	left: 730px;
+	bottom: 120px;
+	color:#000000;
+	font-family: aharoni;
+}
+
+
+
+.img6{
+	position: absolute;
+	left:670px;
+	bottom: 80px;
+}
+
+#Nokia40 {
+	position:absolute;
+	color: black;
+	left: 730px;
+	bottom: 43px;
+	color:#000000;
+	font-family: aharoni;
+}
+
+#Open-F {
+	position:absolute;
+	color: black;
+	left: 730px;
+	bottom: 13px;
+	font-family: candara;
+	font-size: 14px;	
+}
+
+#latest{
+	position: absolute;
+	left: 500px;
+	bottom:-30px;
+	font-family:Calibri;
+	font-size:15px; 
+}
